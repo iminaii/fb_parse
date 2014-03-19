@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FbParse
 
 TODO: Write a gem description
@@ -27,3 +28,9 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+=======
+fb_parse
+========
+
+Ruby Gem to parse an ID from various Facebook URLs
+>>>>>>> 34d511a41d5c64d059a7206ceb224d1e89bfecd5
